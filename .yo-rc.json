@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.qianbaidu.sqlparser"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "",
+    "packageName": "com.qianbaidu.sqlparser",
+    "packageFolder": "com/qianbaidu/sqlparser",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTkwZjIxOTYzZGIwOWUwODY1YjQxZjQwZmY4ZTNmMGJmZjk1NDFiMjJlZTQzMWVlZTMzYzdlM2U0Zjc4MjU5NTM1YzNjNTE5NTUwYzJmNmNjYTk5YzY3NTQyZTkxODIwMjY4YjZmYTBkMTk0NTQxYjJhZmYxMzhhZGNlYTc5YmE=",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
