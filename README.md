@@ -1,21 +1,8 @@
 # ReadMe
-基于spring colud项目，实现mysql sql语句解析功能
-- 前端使用包含swagger文旦界面
+基于spring colud实现mysql sql语句解析功能
+- 前端包含swagger文档
 - 后端使用alibaba.druid实现mysql sql解析功能
 
-### 运行
-- 前端
-```
-npm install
-npm start
-```
-
-- 后端
-```
-mvn install
-mvn -Pprod clean verify
-java -jar target/*.jar
-```
 
 
 
